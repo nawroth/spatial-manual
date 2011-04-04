@@ -1,0 +1,14 @@
+Neo4j Spatial v{revnumber}
+==========================
+
+:neo4j-spatial-version: {revnumber}
+
+:leveloffset: 1
+
+include::{importdir}/neo4j-spatial-docs-jar/dev/introduction.txt[]
+
+:leveloffset: 1
+
+include::{importdir}/neo4j-spatial-docs-jar/dev/index.txt[]
+
+
