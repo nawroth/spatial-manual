@@ -10,12 +10,12 @@
   <artifactId>neo4j-spatial-manual</artifactId>
   <version>0.5-SNAPSHOT</version>
   <name>Neo4j Spatial Manual</name>
-  <description>Neo4j SPatial Reference Manual.</description>
+  <description>Neo4j Spatial Reference Manual.</description>
   <url>http://components.neo4j.org/${project.artifactId}/${project.version}</url>
   <packaging>pom</packaging>
 
   <properties>
-    <short-name>manual</short-name>
+    <short-name>spatial-manual</short-name>
     <docs.sources>${project.build.directory}/docs</docs.sources>
     <docs.test-sources>${project.build.directory}/test-sources</docs.test-sources>
     <docs.images>${project.build.outputDirectory}/images</docs.images>
