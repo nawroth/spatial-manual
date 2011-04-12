@@ -102,7 +102,7 @@ installfilter:
 	#
 	#
 	mkdir -p $(FILTERDEST)
-	cp -fru $(FILTERSRC)/* $(FILTERDEST)
+	cp -fr $(FILTERSRC)/* $(FILTERDEST)
 
 copyimages:
 	#
